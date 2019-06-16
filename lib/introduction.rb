@@ -1,1 +1,1 @@
-expect{introduction("Thomas")}.to output("Hi, my name is Thomas.\n")
+expect{introduction("Josh")}.to output("Hi, my name is Josh.\n")
